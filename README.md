@@ -83,6 +83,14 @@ Project kick off session, where you should get clear of for what and why this pr
 
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
+## Data Model
+
+- Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+- Poor data modeling affects the over all performance of the report.
+- Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
+- In this project, we have followed Snowfall data modeling method.
+
+
 ## Project Outcome
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
