@@ -90,6 +90,9 @@ After the project kick off meetings, the data engineering team has given the dat
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
+<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+
+
 
 ## Project Outcome
 
