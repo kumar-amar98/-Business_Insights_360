@@ -8,30 +8,30 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 Live Report Link
 
 Tech stacks
-SQL
-PowerBi Desktop
-Excel
-DAX language
-DAX studio (for optimizing the report)
-Project charter file
-PowerBI techniques Learnt
-What are all the questions should be asked before staring the project
-Creating calculated columns
-creating measure using DAX language
-Data modeling
-Using Bookmarks to switch between two visuals
-Page navigation with buttons
-Using divide function to prevent zero division errors
-creating date table using m language
-Dynamic titles based on the applied filters
-Using KPI indicators
-Conditional formatting the values in visuals using icons or background color
-Data validation techniques
-PowerBi services
-Publishing reports to PowerBi services
-Setting up personal gateway to set up the auto refresh of data
-PowerBi App creation
-Collaboration, workspace, access permissions in PowerBi services
+1.SQL
+2.PowerBi Desktop
+3.Excel
+4.DAX language
+5.DAX studio (for optimizing the report)
+5.Project charter file
+6.PowerBI techniques Learnt
+7.What are all the questions should be asked before staring the project
+8.Creating calculated columns
+9.creating measure using DAX language
+10Data modeling
+11.Using Bookmarks to switch between two visuals
+12.Page navigation with buttons
+13.Using divide function to prevent zero division errors
+14.creating date table using m language
+15.Dynamic titles based on the applied filters
+16.Using KPI indicators
+17.Conditional formatting the values in visuals using icons or background color
+18.Data validation techniques
+19.PowerBi services
+20.Publishing reports to PowerBi services
+21.Setting up personal gateway to set up the auto refresh of data
+22.PowerBi App creation
+23.Collaboration, workspace, access permissions in PowerBi services
 And more 😅
 GitHub
 Uploading Large size files using GitHub LFS
