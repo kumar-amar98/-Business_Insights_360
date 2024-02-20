@@ -92,8 +92,51 @@ After the project kick off meetings, the data engineering team has given the dat
 
 <img src="https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
 
+### Dashboard designing
 
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
+## Home view
+
+In Home view, all the views button will be available. User will land on specific view page by clicking the button 
+
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Support
+
+## Overall Report
+[home_view](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/Home.PNG)
+
+## Info Page
+
+[info](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/info.PNG)
+
+## Finance View
+
+![Finace.gif](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/finance_view.PNG)
+## Sales View
+
+![Sales.gif](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/sales_view.PNG)
+
+## Marketing View
+
+![Marketing.gif](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/marketing_view.PNG)
+
+## Supply chain View
+
+![Supply chain.gif](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/supply_chain_view.PNG)
+
+## Executive View
+
+![Executive.gif](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/executive_view.PNG)
+
+## Support
+
+![Support](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/support.PNG)
 ## Project Outcome
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
