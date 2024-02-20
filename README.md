@@ -3,7 +3,7 @@
 ## Project Overview
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is here
+I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/landing-page/courses/power-bi-data-analysis-with-end-to-end-project?utm_campaign=codebasicsmaxperformancepaid&utm_id=googleadspaid&gad_source=1&gclid=CjwKCAiAlcyuBhBnEiwAOGZ2S780ILeDL3piuhck5U7QpbiyWbn0iYn3Pzpy-k6FDTqyJD4muFoQxRoCfs0QAvD_BwE)
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMmU4YmM3M2ItZGY4NS00MjlhLWExOTMtYzQ5OTUxZjQzODA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
@@ -109,11 +109,11 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 ## Overall Report
-[home_view](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/Home.PNG)
+![home_view](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/Home.PNG)
 
 ## Info Page
 
-[info](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/info.PNG)
+![info](https://github.com/kumar-amar98/-Business_Insights_360/blob/main/Resources/info.PNG)
 
 ## Finance View
 
